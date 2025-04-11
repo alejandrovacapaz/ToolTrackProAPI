@@ -1,0 +1,6 @@
+@ToolTrackProAPI_HostAddress = http://localhost:5133
+
+GET {{ToolTrackProAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

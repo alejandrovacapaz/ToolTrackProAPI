@@ -1,0 +1,11 @@
+C:\ToolTrackWebAPI\ToolTrackPro.Models\bin\Debug\net8.0\ToolTrackPro.Models.deps.json
+C:\ToolTrackWebAPI\ToolTrackPro.Models\bin\Debug\net8.0\ToolTrackPro.Models.dll
+C:\ToolTrackWebAPI\ToolTrackPro.Models\bin\Debug\net8.0\ToolTrackPro.Models.pdb
+C:\ToolTrackWebAPI\ToolTrackPro.Models\obj\Debug\net8.0\ToolTrackPro.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\ToolTrackWebAPI\ToolTrackPro.Models\obj\Debug\net8.0\ToolTrackPro.Models.AssemblyInfoInputs.cache
+C:\ToolTrackWebAPI\ToolTrackPro.Models\obj\Debug\net8.0\ToolTrackPro.Models.AssemblyInfo.cs
+C:\ToolTrackWebAPI\ToolTrackPro.Models\obj\Debug\net8.0\ToolTrackPro.Models.csproj.CoreCompileInputs.cache
+C:\ToolTrackWebAPI\ToolTrackPro.Models\obj\Debug\net8.0\ToolTrackPro.Models.dll
+C:\ToolTrackWebAPI\ToolTrackPro.Models\obj\Debug\net8.0\refint\ToolTrackPro.Models.dll
+C:\ToolTrackWebAPI\ToolTrackPro.Models\obj\Debug\net8.0\ToolTrackPro.Models.pdb
+C:\ToolTrackWebAPI\ToolTrackPro.Models\obj\Debug\net8.0\ref\ToolTrackPro.Models.dll

@@ -1,0 +1,17 @@
+C:\ToolTrackWebAPI\ToolTrackPro.Services\bin\Debug\net8.0\ToolTrackPro.Services.deps.json
+C:\ToolTrackWebAPI\ToolTrackPro.Services\bin\Debug\net8.0\ToolTrackPro.Services.dll
+C:\ToolTrackWebAPI\ToolTrackPro.Services\bin\Debug\net8.0\ToolTrackPro.Services.pdb
+C:\ToolTrackWebAPI\ToolTrackPro.Services\bin\Debug\net8.0\ToolTrackPro.Models.dll
+C:\ToolTrackWebAPI\ToolTrackPro.Services\bin\Debug\net8.0\ToolTrackPro.Models.pdb
+C:\ToolTrackWebAPI\ToolTrackPro.Services\obj\Debug\net8.0\ToolTrackPro.Services.csproj.AssemblyReference.cache
+C:\ToolTrackWebAPI\ToolTrackPro.Services\obj\Debug\net8.0\ToolTrackPro.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\ToolTrackWebAPI\ToolTrackPro.Services\obj\Debug\net8.0\ToolTrackPro.Services.AssemblyInfoInputs.cache
+C:\ToolTrackWebAPI\ToolTrackPro.Services\obj\Debug\net8.0\ToolTrackPro.Services.AssemblyInfo.cs
+C:\ToolTrackWebAPI\ToolTrackPro.Services\obj\Debug\net8.0\ToolTrackPro.Services.csproj.CoreCompileInputs.cache
+C:\ToolTrackWebAPI\ToolTrackPro.Services\obj\Debug\net8.0\ToolTrac.58ADEACD.Up2Date
+C:\ToolTrackWebAPI\ToolTrackPro.Services\obj\Debug\net8.0\ToolTrackPro.Services.dll
+C:\ToolTrackWebAPI\ToolTrackPro.Services\obj\Debug\net8.0\refint\ToolTrackPro.Services.dll
+C:\ToolTrackWebAPI\ToolTrackPro.Services\obj\Debug\net8.0\ToolTrackPro.Services.pdb
+C:\ToolTrackWebAPI\ToolTrackPro.Services\obj\Debug\net8.0\ref\ToolTrackPro.Services.dll
+C:\ToolTrackWebAPI\ToolTrackPro.Services\bin\Debug\net8.0\ToolTrackPro.Data.dll
+C:\ToolTrackWebAPI\ToolTrackPro.Services\bin\Debug\net8.0\ToolTrackPro.Data.pdb
