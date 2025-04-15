@@ -366,5 +366,7 @@ FodyWeavers.xsd
 **/bin/**/*.pdb
 **/obj/**/*.dll
 **/obj/**/*.pdb
+**/net8.0
 **/*.dll
 **/*.pdb
+**/*.cache
