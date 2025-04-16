@@ -18,7 +18,7 @@ namespace ToolTrackPro.Data.Repositories.Imp
             using var transaction = conn.BeginTransaction();
             try
             {
-                var insertQuery = "INSERT INTO EmailQueue (ToEmail, Subject, Body) VALUES (@ToEmail, @Subject, @Body)";
+                var insertQuery = "INSERT INTO EmailQueue (ToEmail, MailSubject, Body) VALUES (@ToEmail, @Subject, @Body)";
                 var parameters = new[]
                 {
                     new SqlParameter("@ToEmail", emailQueue.ToEmail),
